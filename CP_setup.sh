@@ -1,3 +1,6 @@
+# Based on scripts from the Pluralsight course
+# Kubernetes Installation and Configuration Fundamentals by Anthony Nocentino
+
 #Create our kubernetes cluster, specify a pod network range matching that in calico.yaml! 
 #Only on the Control Plane Node, download the yaml files for the pod network.
 wget https://raw.githubusercontent.com/projectcalico/calico/master/manifests/calico.yaml
