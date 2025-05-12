@@ -1,3 +1,6 @@
+# Based on scripts from the Pluralsight course
+# Kubernetes Installation and Configuration Fundamentals by Anthony Nocentino
+
 sudo apt-get update
 
 sudo swapoff -a
