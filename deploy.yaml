@@ -1,3 +1,5 @@
+# Based on a yaml from the Pluralsight course Configuring and Managing Kubernetes Security by Anthony Nocentino
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
